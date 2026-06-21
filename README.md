@@ -22,7 +22,6 @@ I build systems that turn intelligence into action: autonomous agents, research 
 
 - [`audit`](https://github.com/dor-sr/audit) — agent architecture audit: ten days, one workflow, one shipped improvement.
 - [`FIUBA_companion`](https://github.com/dor-sr/FIUBA_companion) — product work around university workflows.
-- [`aibos`](https://github.com/dor-sr/aibos) — AI business-ops experiments.
 
 More serious repos are being cleaned up and promoted from private work into public artifacts.
 
